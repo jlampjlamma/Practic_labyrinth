@@ -1,0 +1,20 @@
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\bin\Debug\labyrinth.exe.config
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\bin\Debug\labyrinth.exe
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\bin\Debug\labyrinth.pdb
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\obj\Debug\labyrinth.csprojAssemblyReference.cache
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\obj\Debug\labyrinth.Properties.Resources.resources
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\obj\Debug\labyrinth.csproj.GenerateResource.cache
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\obj\Debug\labyrinth.csproj.CoreCompileInputs.cache
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\obj\Debug\labyrinth.exe
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\obj\Debug\labyrinth.pdb
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth\labyrinth\obj\Debug\labyrinth.Form1.resources
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\bin\Debug\labyrinth.exe.config
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\bin\Debug\labyrinth.exe
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\bin\Debug\labyrinth.pdb
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\obj\Debug\labyrinth.csprojAssemblyReference.cache
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\obj\Debug\labyrinth.Form1.resources
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\obj\Debug\labyrinth.Properties.Resources.resources
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\obj\Debug\labyrinth.csproj.GenerateResource.cache
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\obj\Debug\labyrinth.csproj.CoreCompileInputs.cache
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\obj\Debug\labyrinth.exe
+F:\institut\MIFI\3 семестр\Зайцев\labyrinth (изменение окна)\labyrinth\obj\Debug\labyrinth.pdb
